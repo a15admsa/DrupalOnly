@@ -23,6 +23,10 @@
   position: relative;
 }
 
+body {
+  background-color: #dfdfdf;
+}
+
 #content {
   width: 100%;
 }
@@ -70,7 +74,12 @@ body.two-sidebars #sidebar-first {
   display: block;
 }
 
+#logo img {
+  width: 5%;
+  height: 5%;
+}
+
 #site-name {
-  font-size: 26px;
+  display: none;
   margin: 0;
 }
