@@ -611,4 +611,8 @@ Drupal.theme.prototype = {
   }
 };
 
+$(function() {
+  $("#edit-search-block-form--2").attr("size","40");
+});
+
 })(jQuery);

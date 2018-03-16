@@ -79,7 +79,16 @@ body.two-sidebars #sidebar-first {
   height: 5%;
 }
 
-#site-name {
+#site-name,
+#page-title {
   display: none;
   margin: 0;
+}
+
+.form-type-textfield label {
+  display: none;
+}
+
+#edit-search-block-form--2 {
+  size: 40;
 }
