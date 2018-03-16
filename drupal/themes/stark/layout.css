@@ -23,10 +23,6 @@
   position: relative;
 }
 
-body {
-  background-color: #dfdfdf;
-}
-
 #content {
   width: 100%;
 }
@@ -87,8 +83,4 @@ body.two-sidebars #sidebar-first {
 
 .form-type-textfield label {
   display: none;
-}
-
-#edit-search-block-form--2 {
-  size: 40;
 }
