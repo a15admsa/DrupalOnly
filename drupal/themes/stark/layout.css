@@ -69,3 +69,8 @@ body.two-sidebars #sidebar-first {
 #logo {
   display: block;
 }
+
+#site-name {
+  font-size: 26px;
+  margin: 0;
+}
